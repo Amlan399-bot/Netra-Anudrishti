@@ -211,6 +211,11 @@ This GAN would serve as **Stage 1** of the full NETRA pipeline — cleaning the 
 
 ---
 
+##Contributors:
+*Harshita [Lead] (Pipeline ideation and testing)
+*Amlan Kumar Sinha (Training Expert)
+*Avinabo Bhattacharya (Data Cleaning Expert)
+*Shakuntala Bose (Design and web developer)
 
 *Built for Bhartiya Antariksh Hackathon*
 
